@@ -10,4 +10,3 @@
 
 ## Done
 <!-- Completed tasks stay here for context -->
-- [x] NUCLEUS PIPELINE TEST - safe to delete (2026-06-22)
