@@ -4,10 +4,10 @@
 <!-- Add tasks here: - [ ] Task description (YYYY-MM-DD) -->
 - [ ] upgrade stream chat (2026-06-30)
 - [ ] modify the pr review skill like greptile with score (2026-06-27)
-- [ ] update next cache build (2026-06-24)
-- [ ] update pipeline actions to have common build for faster run's (2026-06-24)
+- [ ] update next cache build (2026-06-26)
+- [ ] update pipeline actions to have common build for faster run's (2026-06-26)
 - [ ] create a brag doc for my achievements and responsibilities since last year (2026-06-27)
-- [ ] update the docs for outlook, chrome extension and create deployable builds for them (2026-06-24)
+- [ ] update the docs for outlook, chrome extension and create deployable builds for them (2026-06-26)
 
 ## Backlog
 <!-- Longer-term tasks that aren't urgent -->
